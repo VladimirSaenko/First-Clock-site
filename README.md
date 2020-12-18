@@ -1,7 +1,6 @@
-# First-Clock-site-example
+# First-Clock-site
  
 сайт с часами
-Все
 ¯\_(ツ)_/¯
 
 https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/FirstClock/index.html
