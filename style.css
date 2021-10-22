@@ -46,7 +46,7 @@ body {
     user-select: none;
 }
 
-body{
+body {
     user-select: none;
     display: flex;
     justify-content: center;
@@ -55,7 +55,7 @@ body{
     background: #091921;
 }
 
-.clock{
+.clock {
     width: 350px;
     height: 350px;
     display: flex;
@@ -71,7 +71,7 @@ body{
                 inset 0 15px 15px rgba(0, 0, 0, 0.5);
 }
 
-.clock:before{
+.clock:before {
     content: '';
     position: absolute;
     width: 15px;
